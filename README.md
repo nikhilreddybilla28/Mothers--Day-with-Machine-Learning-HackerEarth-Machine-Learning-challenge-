@@ -13,7 +13,7 @@ matplotlib - 3.1.3
 
 seaborn- 0.10.1  
 
-sklearn - 0.20.1    	
+sci-kit learn(sklearn) - 0.20.1    	
 
 keras(keras.preprocessing) 2.3.1         
 
