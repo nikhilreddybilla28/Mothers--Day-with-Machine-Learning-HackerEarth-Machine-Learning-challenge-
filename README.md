@@ -29,11 +29,9 @@ the same process is done for test data and downloaded as csv
 the label data is also downloaded as csv 
 
 2)Modelling,Training, Evaluation &Prediction(LGBM2):
-The downloaded csv files from eda are loaded using pandas
-train data is split into train and validation  
-and using lightgbm classifier , model is trained (cv is internally used on train data)
-model is validated with validation data and confusion matrix is observed,
-then the model is used to predict labels on test data.
-the predicted test labels is made as a dataframe and analysed and downloaded as csv file
+The downloaded csv files from eda are loaded using pandas								
+train data is split into train and validation  and using lightgbm classifier , model is trained (cv is internally used on train data)						
+model is validated with validation data and confusion matrix is observed,then the model is used to predict labels on test data.
+predicted test labels is  then made as a dataframe and analysed and downloaded as csv file.
 
 
