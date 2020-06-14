@@ -4,7 +4,10 @@ Dataset:
 The dataset consists of various parameters such as text and language of a tweet, the number of times it was retweeted, and the Twitter handle of the author.
 
 
-DEPENDENCIES:																				
+DEPENDENCIES:	
+
+jupyter notebook : 6.0.3
+
 numpy - 1.15.4   
 
 pandas - 1.0.3   
@@ -20,7 +23,7 @@ keras(keras.preprocessing) 2.3.1
 re            
 
 nltk    	
-
+6.0.3
 pickle	
 
 *Classifier :  
