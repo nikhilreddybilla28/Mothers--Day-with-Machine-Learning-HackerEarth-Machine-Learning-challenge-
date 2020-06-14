@@ -4,7 +4,7 @@ Dataset:
 The dataset consists of various parameters such as text and language of a tweet, the number of times it was retweeted, and the Twitter handle of the author.
 
 
-DEPENDENCIES:
+DEPENDENCIES:																				
 numpy - 1.15.4    			                                                                    
 pandas - 1.0.3     					                                                                             
 matplotlib - 3.1.3  		   			                                                           
