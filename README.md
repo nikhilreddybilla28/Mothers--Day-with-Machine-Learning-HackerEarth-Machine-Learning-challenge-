@@ -5,17 +5,17 @@ The dataset consists of various parameters such as text and language of a tweet,
 
 
 DEPENDENCIES:
-numpy - 1.15.4
-pandas - 1.0.3
-matplotlib - 3.1.3
-seaborn- 0.10.1
-sklearn - 0.20.1
-keras(keras.preprocessing) 2.3.1
-re
-nltk
-pickle
-*Classifier: LightGBM  2.3.1
-	 XgBoost 1.1.1
+numpy - 1.15.4    			                                                                    
+pandas - 1.0.3     					                                                                             
+matplotlib - 3.1.3  		   			                                                           
+seaborn- 0.10.1     		                                                                    
+sklearn - 0.20.1    		    				                                                      
+keras(keras.preprocessing) 2.3.1                                                                     
+re                                                                             
+nltk    	    	                                                                                                     							
+pickle						
+*Classifier: LightGBM  2.3.1						
+	 XgBoost 1.1.1								
 
 
 APPROACH:
