@@ -13,7 +13,7 @@ sklearn - 0.20.1
 keras(keras.preprocessing) 2.3.1                                                                     
 re                                                                             
 nltk    	    	                                                                                                     							
-pickle						
+pickle																								
 *Classifier: LightGBM  2.3.1						
 	 XgBoost 1.1.1								
 
