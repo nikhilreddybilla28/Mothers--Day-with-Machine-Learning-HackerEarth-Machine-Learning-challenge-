@@ -21,7 +21,7 @@ keras(keras.preprocessing) 2.3.1
 
 re            
 
-nltk    	6.0.3
+nltk    	
 
 pickle	
 
