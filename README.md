@@ -4,7 +4,6 @@
 The dataset consists of various parameters such as text and language of a tweet, the number of times it was retweeted, and the Twitter handle of the author.
 
 
-<<<<<<< HEAD
 ## DEPENDENCIES:
 
 numpy - 1.15.4
@@ -46,8 +45,6 @@ pickle
 			LightGBM  v-2.3.1
 			
 			XgBoost v-1.1.1
->>>>>>> 084fb0ccf015629f78e21449ce1d90f2bb83fdba
-
 
 # APPROACH:
 
@@ -60,7 +57,6 @@ This is made into dataframe and downloaded as csv
 the same process is done for test data and downloaded as csv
 the label data is also downloaded as csv 
 
-<<<<<<< HEAD
 
 ## 2)Modelling,Training, Evaluation &Prediction(LGBM2):
 The downloaded csv files from eda are loaded using pandas
@@ -70,12 +66,11 @@ model is validated with validation data and confusion matrix is observed,
 then the model is used to predict labels on test data.
 the predicted test labels is made as a dataframe and analysed and downloaded as csv file
 
-=======
 2)Modelling,Training, Evaluation &Prediction(LGBM2):
 The downloaded csv files from eda are loaded using pandas								
 train data is split into train and validation  and using lightgbm classifier , model is trained (cv is internally used on train data)						
 model is validated with validation data and confusion matrix is observed,then the model is used to predict labels on test data.
 predicted test labels is  then made as a dataframe and analysed and downloaded as csv file.
->>>>>>> 084fb0ccf015629f78e21449ce1d90f2bb83fdba
+
 
 PS:There are some packages imported but not used please ignore them.
