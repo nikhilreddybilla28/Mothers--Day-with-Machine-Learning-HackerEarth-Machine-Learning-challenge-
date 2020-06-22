@@ -6,6 +6,7 @@ The dataset consists of various parameters such as text and language of a tweet,
 
 <<<<<<< HEAD
 ## DEPENDENCIES:
+
 numpy - 1.15.4
 pandas - 1.0.3
 matplotlib - 3.1.3
@@ -49,6 +50,7 @@ pickle
 
 
 # APPROACH:
+
 ## 1)EDA(EDA):
 Origial data is analysed, column wise and missing values and noise are corrected , then the data is analysed again.
 The text is cleaned by removing mentions , instagram tags and twitter tags .
@@ -59,6 +61,7 @@ the same process is done for test data and downloaded as csv
 the label data is also downloaded as csv 
 
 <<<<<<< HEAD
+
 ## 2)Modelling,Training, Evaluation &Prediction(LGBM2):
 The downloaded csv files from eda are loaded using pandas
 train data is split into train and validation  
