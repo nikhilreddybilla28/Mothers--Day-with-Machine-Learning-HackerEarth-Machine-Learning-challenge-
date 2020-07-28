@@ -4,10 +4,10 @@
 
 #### build a sophisticated sentiment analysis-based NLP model that can classify sentiments of tweets into positive, negative, and neutral.
 
-### Dataset:
+#### Dataset:
 The dataset consists of various parameters such as text and language of a tweet, the number of times it was retweeted, and the Twitter handle of the author.
 
-### DEPENDENCIES:	
+#### DEPENDENCIES:	
 
 jupyter notebook : 6.0.3
 
@@ -35,9 +35,9 @@ pickle
 			
 			XgBoost v-1.1.1
 
-## APPROACH:
+### APPROACH:
 
-### 1)EDA(EDA):
+#### 1)EDA(EDA):
 Origial data is analysed, column wise and missing values and noise are corrected , then the data is analysed again.
 The text is cleaned by removing mentions , instagram tags and twitter tags .
 The tidy test is then made into corpus using nltk , then its made into embedding vectors.
@@ -47,7 +47,7 @@ the same process is done for test data and downloaded as csv
 the label data is also downloaded as csv 
 
 
-### 2)Modelling,Training, Evaluation &Prediction(LGBM2):
+#### 2)Modelling,Training, Evaluation &Prediction(LGBM2):
 The downloaded csv files from eda are loaded using pandas
 train data is split into train and validation  
 and using lightgbm classifier , model is trained (cv is internally used on train data)
