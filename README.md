@@ -2,7 +2,7 @@
 
 ![Dataset](https://img.shields.io/badge/Dataset-HackerEarth-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-LightGBM_Xgboost-orange.svg)
 
-## build a sophisticated sentiment analysis-based NLP model that can classify sentiments of tweets into positive, negative, and neutral.
+### build a sophisticated sentiment analysis-based NLP model that can classify sentiments of tweets into positive, negative, and neutral.
 
 ## Dataset:
 The dataset consists of various parameters such as text and language of a tweet, the number of times it was retweeted, and the Twitter handle of the author.
