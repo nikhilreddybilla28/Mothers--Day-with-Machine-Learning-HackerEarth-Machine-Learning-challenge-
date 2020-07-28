@@ -1,3 +1,7 @@
+# Mothers--Day-with-Machine-Learning
+
+![Dataset](https://img.shields.io/badge/Dataset-HackerEarth-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-LightGBM_Xgboost-orange.svg)
+
 ## build a sophisticated sentiment analysis-based NLP model that can classify sentiments of tweets into positive, negative, and neutral.
 
 ## Dataset:
